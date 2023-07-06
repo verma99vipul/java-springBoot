@@ -16,6 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+            <artifactId>cobertura-maven-plugin</artifactId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <!-- tag::actuator[] -->
